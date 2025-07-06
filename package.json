@@ -2,7 +2,7 @@
   "name": "food-blog",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://matthews-food-review.github.io/food-blog",
+  "homepage": "https://matthews-food-review.github.io",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
