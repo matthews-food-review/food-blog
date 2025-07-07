@@ -11,6 +11,7 @@ export default function BlogPost({ post }) {
       <h2>{post.title}</h2>
       <small>{timeAgo}</small>
       <p>{post.content}</p>
+      <span className="author">— {post.author}</span>
     </div>
   );
 }
