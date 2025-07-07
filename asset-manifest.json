@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/food-blog/static/css/main.ffe1b087.css",
-    "main.js": "/food-blog/static/js/main.ac163ed1.js",
+    "main.js": "/food-blog/static/js/main.c3d9aa92.js",
     "index.html": "/food-blog/index.html",
     "main.ffe1b087.css.map": "/food-blog/static/css/main.ffe1b087.css.map",
-    "main.ac163ed1.js.map": "/food-blog/static/js/main.ac163ed1.js.map"
+    "main.c3d9aa92.js.map": "/food-blog/static/js/main.c3d9aa92.js.map"
   },
   "entrypoints": [
     "static/css/main.ffe1b087.css",
-    "static/js/main.ac163ed1.js"
+    "static/js/main.c3d9aa92.js"
   ]
 }
